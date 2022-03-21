@@ -13,6 +13,7 @@ public class Povar extends Restoran {
     public void Show()
     {
         System.out.printf("Povar name: %s \t Dish: %s \n " , super.getName(), dish );
+        System.out.printf("Povar name: %s \t Dish: %s \n " , super.getName(), dish );
     }
 
 }
