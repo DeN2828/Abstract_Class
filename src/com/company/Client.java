@@ -16,5 +16,7 @@ public class Client extends Restoran {
         System.out.printf("Client name: %s \t Dish: %s \n ", super.getName(), dish);
         System.out.printf("Client name: %s \t Dish: %s \n ", super.getName(), dish);
         System.out.printf("Client name: %s \t Dish: %s \n ", super.getName(), dish);
+//         dsaadsasd
+        System.out.printf("Client name: %s \t Dish: %s \n ", super.getName(), dish);
     }
 }
